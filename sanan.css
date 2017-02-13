@@ -1,0 +1,25 @@
+h1 {
+color: purple;
+font-family: Tahoma;
+font-style: Italic;
+text-align: center;
+}
+
+#ilk_setir {
+	background-color: yellow;
+	text-align: center;
+	font-weight: bold;
+	}
+	
+tr [value] {
+	background-color:blue;
+	text-align: center;
+	
+tr [value = "AZ"] {background: red;}
+
+tr [value =^"A"] {font-style: Italic;}
+}
+
+tr [value$ =  "R"] {background-color: green; }
+
+tr [value* = "A" ] {text-decoration: underline; } 
