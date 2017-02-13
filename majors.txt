@@ -1,0 +1,42 @@
+html v? onun ?vv?lki versiyalar? aras?nda bir cox f?rql?r vard?r.
+1. <!DOCTYPE>  yaz?l?s formas?ndan <!DOCTYPE  html> yaz?l?s formas?na kecid.
+2. Umumiyy?tl? html 1 -4 butun s?hif?l?r text v? s?kill?rd?n ibar?t idi, ancaq html5-d? video, audio, 2d v? 3d qrafiq s?kill?rd?n istifad? edilirdi. 
+3. Biz application-a m?lumat? daxil etdikd? online v? ya offline olmag?m?zdan as?l? olmayaraq o m?lumata daxil ola bilirik. 
+4. M?lumat mubadil?si ucun s?b?k? protokollar?ndan istifad? olunmas?
+5. Html 5 vasit?siyl? biz istifad?cini yerini muyy?n ed? bil?rik
+Eyni html 5 taglar?n?n ?vv?lkil?rd?n f?rqi 
+1. <a> ?vv?lki versiyalarda h?m linki s?hif?y? baglamaq h?m d? “anchor” funksiyas?n yerin? yetirirdi. Ancaq html5 d? bu ancaq linki s?hif?y? baglay?r ( href –l? birlikd?)
+2.  <acronym> tag?  <abbr> taq? il? ?v?z olundu.
+3. <applet> tag?  <object> tag? il? ?v?z olundu
+4. <strong> xususi vurgulanan hiss?ni gost?rirdi ancaq html5 bu vacib hiss?ni gost?rir. 
+5. <meta> html 5 d? c?xar?l?b.
+
+Html 5 - ? olan ?lav? taglar
+<article>  :  M?ql? bu tag aras?nda yaz?l?r
+<aside>  :  S?hif?nin m?zmunundan k?nar text daxil etm?k ucun istifad? olunur
+<bdi>   : Textin yaz?ld?g? formatdan k?nar format daxil edildikd? bu tag istifad? olunur. M?s?l?n cin v? ya ?r?b ?lifbas?na aid sozl?r yaz?landa
+<details>   :   M?tn? ?lav? hiss?l?r v? ya izah daxil edilir ki bu da h?m gizl?dil? h?m d? gost?ril? bilir.
+<summary>    :    <details>  tag?nda gorun?c?k hiss? bu tagla yaz?l?r.
+<figure>   :  illustrasiyalar, diagramlar, s?kill?r, kod siyah?s? bu tagla yaz?l?r
+<figcaption>   : Bu  <figure> tag?n?n daxilid? olur v? birbasa s?klin alt?na n?s? yazmaq ucun istifad? olunur.
+<footer>   :  ?sas?n s?nd?l?rin v? textin sonunda yaz?lan informasiyalar ucun istifad? edilir. M?s?l?n ?lq? m?lumatlar?n?n yaz?lmas? ucun
+<header>   :   Basl?qlar yaz?lmas? ucun istifad? olunur.
+<hgroup>   <h1>   d?n <h6> a q?d?r basl?qlar yazmaq ucun istifad? olunur. ?n boyuk srift h6 ?n kicik h1 dir
+<mark>   :   M?tn hiss?sini daha n?z?r?carpacaq edir. 
+<meter>  :   H?r hansi bir prosesin nec? faiz gorulduyunu qarfiq s?kild? gost?rir. Is 20% gorulubs? bir x?tt t?s?vvur ed?k olunun 20% i bir r?ngd? 80% I basqa r?ngd? olacaq
+<nav>   :   S?hif?nin ozund? bir element yarad?r v? bu element vasit?siyl? biz kecid ed? bilirik. 
+<progress>   :   Bir isin nec? faiz gorulduyunu gost?rir v? <meter>  oxsuyur.
+<ruby>    :   ?r?b v? cin ?lifbas?n? gost?rm?k ucun istifad? olunur
+<rt>   : :   ?r?b v? cin ?lifbas?n? gost?rm?k ucun istifad? olunur.
+<rp>   :   :   ?r?b v? cin ?lifbas?n? gost?rm?k ucun istifad? olunur
+<section>   :  M?tnd? bir hiss?ni gost?rm?k ucun istifad? olunur.
+<time>  :  Vaxt? yazmaq ucun
+<wbr>  :
+New Media Elements :
+
+
+HTML5 media fayllar?n ?lav?si ucun istifad? olunur.
+<audio>  :  S?s m?zmunu daxil etm?k ucun
+<video>  :  video ya ya kino daxil etm?k ucun.
+<source>  : audio v? video fayylar?n m?nb?yini gost?rm?k ucun istifad? olunur.
+<embed>  
